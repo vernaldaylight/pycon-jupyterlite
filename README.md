@@ -2,6 +2,8 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb)
 
+https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+
 xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
